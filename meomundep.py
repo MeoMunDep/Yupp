@@ -1,1 +1,1 @@
-print("50 STARS TO UNLOCK")
+print("100 STARS TO UNLOCK")
